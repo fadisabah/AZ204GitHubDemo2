@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AZ204GitHubDemo2", "AZ204GitHubDemo2\AZ204GitHubDemo2.csproj", "{9C166D2D-2044-4271-8EDC-B7EE47E190D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C166D2D-2044-4271-8EDC-B7EE47E190D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C166D2D-2044-4271-8EDC-B7EE47E190D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C166D2D-2044-4271-8EDC-B7EE47E190D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C166D2D-2044-4271-8EDC-B7EE47E190D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {897ED749-130E-4D7A-8F67-712894E4C0EA}
+	EndGlobalSection
+EndGlobal
